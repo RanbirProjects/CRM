@@ -1,5 +1,10 @@
 # MERN CRM System
-
+Dashboard
+![F0D29146-5BE9-4747-A53D-E74E12D572DF](https://github.com/user-attachments/assets/99592116-6b85-4d1d-9fab-e4305e13f39a)
+Customer Management
+![BDB7FC48-576F-4C6E-8DB4-3653958F4DA0](https://github.com/user-attachments/assets/2447ea93-5d76-4caa-a237-831e1676968e)
+CRM system
+![B686408D-6012-4811-8BA4-71CAF01A7E7C](https://github.com/user-attachments/assets/ab8b3dd1-e9f7-4d32-a124-723f5654bf9f)
 A full-stack Customer Relationship Management (CRM) system built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
 ## Features
